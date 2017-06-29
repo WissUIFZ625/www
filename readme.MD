@@ -9,10 +9,13 @@
 
 
 
-##HOW TO USE
-	TODO:
 
+##HOW TO USE 
+**Commands** 
 
+	git clone https://github.com/WissUIFZ625/www.git
+	
+	
 
 
 ##LICENCE:
