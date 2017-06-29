@@ -1,4 +1,6 @@
-
+#Dieses ist das Master script, diese soll in zufunkt alle tasks ausführen..
+#
+# Autor: UIFZ-625-001 :-) :-) x
 #!/bin/bash 
 
 read -p "Projektname eingeben: " projektname
