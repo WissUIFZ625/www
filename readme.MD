@@ -1,0 +1,23 @@
+#README WEBSITE STARTERPACK
+
+
+
+##WHATS INSIDE
+
+
+	TOODO:
+
+
+
+##HOW TO USE
+	TODO:
+
+
+
+
+##LICENCE:
+	TODO:
+	
+##THANKS TO 
+
+**...**
